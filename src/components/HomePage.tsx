@@ -11,7 +11,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onCategoryClick }) => {
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-4">Welcome to SA9R</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Discover our premium collection of streetwear. Quality, style, and comfort in every piece.
+           Eagles are magnificent birds of prey, known for their strength, sharp vision, and regal appearance.
           </p>
         </div>
         
@@ -23,7 +23,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onCategoryClick }) => {
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
               <div className="aspect-square bg-gradient-to-br from-gray-200 to-gray-300 relative overflow-hidden">
                 <img
-                  src="https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="src\Image\wmremove-transformed (3).png"
                   alt="T-Shirts"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
@@ -51,7 +51,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onCategoryClick }) => {
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
               <div className="aspect-square bg-gradient-to-br from-gray-200 to-gray-300 relative overflow-hidden">
                 <img
-                  src="https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="src\Image\watermarkremover-transformed.png"
                   alt="Hoodies"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
